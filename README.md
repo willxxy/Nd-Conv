@@ -6,7 +6,7 @@ I was just a bit curious on fft convs and deep learning frameworks on Apple sili
 
 The next todo will be to write cnns in all three for mnist classification and see the performance there.
 
-For now, here are some graphs:
+Here are some graphs:
 
 ## CPU Benchmark
 
