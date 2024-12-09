@@ -1,10 +1,8 @@
 # Nd-Conv
 
-For now this is a performance benchmark of self-implemented fast fourier transform-based convolutions in np, mlx, and torch on Apple M2 Max hardware.
+For now, this is a performance benchmark of self-implemented fast fourier transform-based convolutions in np, mlx, and torch on Apple M2 Max hardware.
 
-I was just a bit curious on fft convs and deep learning frameworks... 
-
-May use this repository in the future for other performance tests on Apple silicon.
+I was just a bit curious on fft convs and deep learning frameworks on Apple silicon... 
 
 The next todo will be to write cnns in all three for mnist classification and see the performance there.
 
