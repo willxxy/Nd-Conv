@@ -10,9 +10,17 @@ The next todo will be to write cnns in all three for mnist classification and se
 
 On the command line, execute the following
 
-1. cd src
+1. conda create -n mlx python=3.10
 
-2. bash script/run.sh
+2. conda activate mlx
+
+3. cd Nd-Conv
+
+4. pip install -e .
+
+5. cd src
+
+6. bash script/run.sh
 
 Here are some graphs:
 
