@@ -6,6 +6,14 @@ I was just a bit curious on fft convs and deep learning frameworks on Apple sili
 
 The next todo will be to write cnns in all three for mnist classification and see the performance there.
 
+## Usage
+
+On the command line, execute the following
+
+1. cd src
+
+2. bash script/run.sh
+
 Here are some graphs:
 
 ## CPU Benchmark
